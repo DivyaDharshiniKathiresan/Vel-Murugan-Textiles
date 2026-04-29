@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Sitemap: https://divyadharshini.github.io/new-velmurugan-textiles/sitemap.xml
+
+# New Velmurugan Textiles — Thamaraipakkam, Thiruvallur, Tamil Nadu
